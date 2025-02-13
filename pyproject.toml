@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "jmarci-de2v2-2-5"
+version = "0.0.1"
+description = "Weather Data System"
+authors = ["Julius <j.marciulynas@gmail.com>"]
+readme = "README.md"
+packages = [{include = "jmarci_de2v2"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+python-decouple = "^3.8"
+requests = "^2.32.3"
+sqlalchemy = "^2.0.33"
+sqlalchemy-utils = "^0.41.2"
+logging = "^0.4.9.6"
+aiohttp = "^3.10.5"
+asyncio = "^3.4.3"
+pymysql = "^1.1.1"
+aiomysql = "^0.2.0"
+cryptography = "^43.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

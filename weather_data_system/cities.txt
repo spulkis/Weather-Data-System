@@ -1,0 +1,20 @@
+Istanbul, TR
+London, UK
+Saint Petersburg, RU
+Berlin, DE
+Madrid, ES
+Kyiv, UA
+Rome, IT
+Bucharest, RO
+Paris, FR
+Minsk, BY
+Vienna, AT
+Warsaw, PL
+Hamburg, DE
+Budapest, HU
+Belgrade, RS
+Barcelona, ES
+Munich, DE
+Kharkiv, UA
+Milan, IT
+Vilnius, LT
